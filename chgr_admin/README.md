@@ -1,4 +1,4 @@
-# chgr_client
+# chgr_admin
 
 ## Project setup
 ```
