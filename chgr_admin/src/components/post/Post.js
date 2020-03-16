@@ -1,7 +1,7 @@
 var Post = '<article class="blog-card">\
-            <div class="post_image_container">\
-              <img class="post-image" :src="image"/>\
-            </div>\
+              <div class="post_image_container">\
+                <img class="post-image" :src="image"/>\
+              </div>\
             <div class="card_backgroud">\
               <div class="article-details">\
                 <div class="post_header">\
